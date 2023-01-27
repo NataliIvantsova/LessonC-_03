@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\obj\Debug\net6.0\Primer_02.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\obj\Debug\net6.0\Primer_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\obj\Debug\net6.0\Primer_02.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\obj\Debug\net6.0\Primer_02.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\obj\Debug\net6.0\Primer_02.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\bin\Debug\net6.0\Primer_02.exe
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\bin\Debug\net6.0\Primer_02.deps.json
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\bin\Debug\net6.0\Primer_02.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\bin\Debug\net6.0\Primer_02.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\bin\Debug\net6.0\Primer_02.pdb
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\obj\Debug\net6.0\Primer_02.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\obj\Debug\net6.0\refint\Primer_02.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\obj\Debug\net6.0\Primer_02.pdb
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\obj\Debug\net6.0\Primer_02.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\LessonC#03\Primer_02\obj\Debug\net6.0\ref\Primer_02.dll
